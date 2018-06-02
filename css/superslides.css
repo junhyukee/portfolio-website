@@ -22,7 +22,7 @@
 .slides-navigation {
   margin: 0 auto;
   position: absolute;
-  z-index: 3;
+  z-index: 6;
   top: 46%;
   width: 100%;
 }
