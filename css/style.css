@@ -111,6 +111,7 @@ body {
 	text-align: center;
 	border: 2px solid #444;
 	border-top: none;
+	height: 180px;
 }
 
 .squareInnerContainer:before,
@@ -130,8 +131,16 @@ body {
 	left: 0px;
 }
 
-.squareContent h2 {
+.squareContent h1 {
 	font-size: 56px;
+	margin-bottom: 10px;
+	font-weight: 400;
+	color: #BD2031;
+}
+
+.squareContent h2 {
+	font-size: 30px;
+	padding-top: 20px;
 	margin-bottom: 10px;
 	font-weight: 400;
 	color: #BD2031;
